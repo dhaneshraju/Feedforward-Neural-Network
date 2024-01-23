@@ -46,5 +46,5 @@ Loss function
 Optimizer
 Explore the code in model.py and adjust the hyperparameters in config.py accordingly.
 
-##Contributing
+## Contributing
 If you find any issues or have suggestions for improvements, please open an issue or submit a pull request. We welcome contributions!
