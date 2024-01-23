@@ -3,7 +3,7 @@
 ## Overview
 This repository contains the implementation of a Feedforward Neural Network (FNN), a fundamental type of artificial neural network where information flows in one direction—from the input layer, through hidden layers, and finally to the output layer.
 
-Features
+## Features
 Modularity: The network architecture is designed to be easily customizable. You can modify the number of layers, neurons in each layer, and activation functions according to your specific needs.
 
 Forward Propagation: The feedforward mechanism is implemented efficiently, ensuring fast and accurate predictions for given inputs.
@@ -14,26 +14,26 @@ Loss Function: The network supports different loss functions, allowing you to ta
 
 Optimizers: Use various optimization algorithms like Stochastic Gradient Descent (SGD), Adam, or RMSprop to efficiently update the network weights during training.
 
-Getting Started
+## Getting Started
 Prerequisites
-Ensure you have Python installed (version X.X.X).
+Ensure you have Python installed (version latest).
 Install required dependencies by running:
 Copy code
 pip install -r requirements.txt
-Usage
+#### Usage
 Clone the Repository:
 
-bash
-Copy code
+#### bash
+#### Copy code
 git clone https://github.com/your_username/feedforward-neural-network.git
 cd feedforward-neural-network
 Train the Neural Network:
 
-Copy code
+#### Copy code
 python train.py
 Make Predictions:
 
-Copy code
+#### Copy code
 python predict.py
 Customization
 Feel free to experiment with the following parameters to customize the network architecture:
@@ -46,5 +46,5 @@ Loss function
 Optimizer
 Explore the code in model.py and adjust the hyperparameters in config.py accordingly.
 
-Contributing
+##Contributing
 If you find any issues or have suggestions for improvements, please open an issue or submit a pull request. We welcome contributions!
