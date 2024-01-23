@@ -1,6 +1,6 @@
 # Feedforward-Neural-Network
 
-##Overview
+## Overview
 This repository contains the implementation of a Feedforward Neural Network (FNN), a fundamental type of artificial neural network where information flows in one direction—from the input layer, through hidden layers, and finally to the output layer.
 
 Features
