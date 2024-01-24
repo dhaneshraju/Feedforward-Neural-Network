@@ -27,7 +27,9 @@ Clone the Repository:
 #### bash
 #### Copy code
 git clone https://github.com/dhaneshraju/feedforward-neural-network.git
+
 cd feedforward-neural-network
+
 Train the Neural Network:
 
 #### Copy code
