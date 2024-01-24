@@ -1,12 +1,13 @@
-# Feedforward-Neural-Network
+#Feedforward Neural Network with Backpropagation
+##Overview
+This repository contains the implementation of a Feedforward Neural Network (FNN) with Backpropagation, a fundamental type of artificial neural network where information flows in one direction during the forward pass and errors are propagated backward during the backpropagation phase for training.
 
-## Overview
-This repository contains the implementation of a Feedforward Neural Network (FNN), a fundamental type of artificial neural network where information flows in one direction—from the input layer, through hidden layers, and finally to the output layer.
-
-## Features
+##Features
 Modularity: The network architecture is designed to be easily customizable. You can modify the number of layers, neurons in each layer, and activation functions according to your specific needs.
 
 Forward Propagation: The feedforward mechanism is implemented efficiently, ensuring fast and accurate predictions for given inputs.
+
+Backpropagation: The network incorporates the backpropagation algorithm for training. During the training phase, errors are calculated, and the weights are updated to minimize these errors, allowing the network to learn from the provided data.
 
 Activation Functions: Choose from a variety of activation functions such as ReLU, Sigmoid, or Hyperbolic Tangent to introduce non-linearity in the network.
 
