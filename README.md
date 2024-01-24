@@ -30,7 +30,7 @@ cd feedforward-neural-network
 Train the Neural Network:
 
 #### Copy code
-python train.py
+python final_feed_forward_neural_network.py
 Make Predictions:
 
 #### Copy code
@@ -44,7 +44,16 @@ Activation functions
 Learning rate
 Loss function
 Optimizer
-Explore the code in model.py and adjust the hyperparameters in config.py accordingly.
+Explore the code in final_feed_forward_neural_network.py and adjust the hyperparameters accordingly.
+Which the above code runs only for the Neural Network
+I integrated this Nueral Network with the Lunar Landers game, i usec this network to land the lander in the specific spot automatically without any human interventions
+(5/20 attempts) Still working in the model.
+
+The below image shows the example of the game:
+
+git add ./Main-FFN/Image-Source/1.png
+git add ./Main-FFN/Image-Source/2.png
+
 
 ## Contributing
 If you find any issues or have suggestions for improvements, please open an issue or submit a pull request. We welcome contributions!
