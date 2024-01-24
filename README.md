@@ -32,11 +32,14 @@ Train the Neural Network:
 
 #### Copy code
 python final_feed_forward_neural_network.py
+
 Make Predictions:
 
 #### Copy code
 python predict.py
+
 Customization
+
 Feel free to experiment with the following parameters to customize the network architecture:
 
 Number of layers
@@ -47,7 +50,7 @@ Loss function
 Optimizer
 Explore the code in final_feed_forward_neural_network.py and adjust the hyperparameters accordingly.
 Which the above code runs only for the Neural Network
-I integrated this Nueral Network with the Lunar Landers game, i usec this network to land the lander in the specific spot automatically without any human interventions
+I integrated this Nueral Network with the Lunar Landers game, i use this network to land the lander in the specific spot automatically without any human interventions
 (5/20 attempts) Still working in the model.
 
 The below image shows the example of the game:
