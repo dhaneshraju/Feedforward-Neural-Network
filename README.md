@@ -12,7 +12,7 @@ Activation Functions: Choose from a variety of activation functions such as ReLU
 
 Loss Function: The network supports different loss functions, allowing you to tailor the training process to your specific problem, whether it's regression or classification.
 
-Optimizers: Use various optimization algorithms like Stochastic Gradient Descent (SGD), Adam, or RMSprop to efficiently update the network weights during training.
+so if you just run the file it will automatically train the model and start to predict, Because ive allready implement and attached the data-set with it.
 
 ## Getting Started
 Prerequisites
@@ -25,7 +25,7 @@ Clone the Repository:
 
 #### bash
 #### Copy code
-git clone https://github.com/your_username/feedforward-neural-network.git
+git clone https://github.com/dhaneshraju/feedforward-neural-network.git
 cd feedforward-neural-network
 Train the Neural Network:
 
